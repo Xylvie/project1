@@ -1,0 +1,319 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #092b52fa;
+}
+
+.logo{
+    margin-left: -650px;
+}
+
+.title{
+    text-align: center;
+    margin-right: 150px;
+    margin-left: 450px;
+    color: rgb(236, 38, 38);
+}
+
+.FacebookButton{
+    text-align: center;
+    margin-right: 0px;
+    margin-left: 25px;
+    background-color: rgb(162, 221, 221);
+    color: rgb(236, 38, 38);
+    padding: 15px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.FacebookButton:hover{
+    background-color: rgb(134, 120, 120);
+}
+
+.UpworkButton{
+    text-align: center;
+    margin-right: 0px;
+    margin-left: 25px;
+    background-color: rgb(162, 221, 221);
+    color: rgb(236, 38, 38);
+    padding: 15px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.UpworkButton:hover{
+    background-color: rgb(134, 120, 120);
+}
+
+.OnlineJobsPHButton{
+    text-align: center;
+    margin-right: 0px;
+    margin-left: 25px;
+    background-color: rgb(162, 221, 221);
+    color: rgb(236, 38, 38);
+    padding: 15px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.OnlineJobsPHButton:hover{
+    background-color: rgb(134, 120, 120);
+}
+
+.SignInButton{
+    text-align: center;
+    margin-right: -600px;
+    margin-left: 0px;
+    background-color: rgb(162, 221, 221);
+    color: rgb(236, 38, 38);
+    padding: 15px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.SignInButton:hover{
+    background-color: rgb(134, 120, 120);
+}
+
+.LinkedInButton{
+    text-align: center;
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: rgb(162, 221, 221);
+    color: rgb(236, 38, 38);
+    padding: 15px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.LinkedInButton:hover{
+    background-color: rgb(134, 120, 120);
+}
+
+.banner{
+    text-align: center;
+    margin-left: -1050px;
+    margin-right: -2050px;
+    margin-top: 5px;
+    background-color: rgb(78, 136, 136);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.Statement{
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    margin-right: 150px;
+    margin-left: -1050px;
+    max-width: 900px;
+    background-color: rgb(162, 221, 221);
+    padding: 15px;
+    border-radius: 5px;
+    color: ;
+}
+
+.Profile{
+    border-radius: 1150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Skills{
+    background-color:#092b52fa;
+    margin-top: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.DataAnalytics{
+    border-radius: 20px;
+}
+
+.GraphicDesign{
+    border-radius: 20px;
+}
+
+.DA{
+    margin-left: -950px;
+    margin-right: 50px;
+    text-align: center;
+    color: rgb(236, 38, 38);;
+}
+
+.SetofSk{
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgb(162, 221, 221);
+    max-width: 350px;
+    padding: 10px 20px;
+    color: rgb(236, 38, 38);;
+    margin-left: 770px;
+    margin-top: 5px;
+}
+
+.GD{
+    text-align: center;
+    margin-top: -170px;
+    color: rgb(236, 38, 38);;
+}
+
+.API{
+    border-radius: 20px;
+}
+
+.AutoPI{
+    text-align: center;
+    margin-top: -170px;
+    margin-left: 1050px;
+    color: rgb(236, 38, 38);;
+}
+
+.ProductResearch{
+    border-radius: 20px;
+}
+
+.PR{
+    text-align: center;
+    margin-left: -1000px;
+    color: rgb(236, 38, 38);;
+}
+
+.MarketAnalysis{
+    border-radius: 20px;
+}
+
+.MA{
+    text-align: center;
+    margin-top: -170px;
+    color: rgb(236, 38, 38);;
+}
+
+.CommunicationSkills{
+    border-radius: 20px;
+}
+
+.CS{
+    text-align: center;
+    margin-top: -170px;
+    margin-left: 1050px;
+    color: rgb(236, 38, 38);;
+}
+
+.LM{
+    text-align: center;
+    margin-left: -1000px;
+    color: rgb(236, 38, 38);;
+}
+
+.LeadManagement{
+    border-radius: 20px;
+}
+
+.CNIM{
+    text-align: center;
+    margin-top: -170px;
+    color: rgb(236, 38, 38);;
+}
+
+.CalendarNInboxManagement{
+    border-radius: 20px;
+}
+
+.HLEA{
+    text-align: center;
+    margin-top: -170px;
+    margin-left: 1050px;
+    color: rgb(236, 38, 38);;
+}
+
+.HighLevelExecutiveAssistant{
+    border-radius: 20px;
+}
+
+.SP{
+    text-align: center;
+    margin-left: -1000px;
+    color: rgb(236, 38, 38);;
+}
+
+.StreamLiningProcess{
+    border-radius: 20px;
+}
+
+.PTM{
+    text-align: center;
+    margin-top: -170px;
+    color: rgb(236, 38, 38);;
+}
+
+.ProjectNTeamManagement{
+    border-radius: 20px;
+}
+
+.Tools{
+    background-color: rgb(78, 136, 136);
+    align-items: center;
+    margin-top: 5px;
+}
+
+.TLS{
+    text-align: center;
+    max-width: 250px;
+    padding: 15px 30px;
+    background-color:rgb(162, 221, 221);
+    margin-left: 830px;
+    color: rgb(236, 38, 38);;
+}
+
+.ToolsIUse{
+    height: 950px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.TLIU{
+    text-align: center;
+}
+
+.CV{
+    text-align: center;
+    background-color: rgb(78, 136, 136);
+}
+
+.Resume{
+    border-radius: 20px;
+}
+
+.MR{
+    text-align: center;
+    max-width: 250px;
+    background-color: rgb(162, 221, 221);
+    padding: 15px 30px;
+    margin-left: 840px;
+    margin-bottom: 20px;
+    color: rgb(236, 38, 38);;
+}
